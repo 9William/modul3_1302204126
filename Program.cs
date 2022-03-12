@@ -21,6 +21,9 @@ namespace modul3_1302204126
             Console.WriteLine(KodeBuah.getKodeBuah(KodeBuah.buah.Melon));
             Console.WriteLine(KodeBuah.getKodeBuah(KodeBuah.buah.Semangka));
             Console.WriteLine("");
+
+
+
         }
     }
 }
